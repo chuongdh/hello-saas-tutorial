@@ -9,3 +9,4 @@ allowedMethods:
   - POST
 allowedHeaders:
   - '*'
+  - 'my-custom-value'
