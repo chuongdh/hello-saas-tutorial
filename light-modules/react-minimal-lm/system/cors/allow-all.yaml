@@ -8,5 +8,4 @@ allowedMethods:
   - OPTIONS
   - POST
 allowedHeaders:
-  - '*'
-  - 'my-name'
+  - 'X-MY-HEADER'
