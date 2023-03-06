@@ -9,4 +9,3 @@ allowedMethods:
   - POST
 allowedHeaders:
   - 'my-name'
-  - 'my-name2'
