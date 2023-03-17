@@ -8,4 +8,4 @@ allowedMethods:
   - OPTIONS
   - POST
 allowedHeaders:
-  - '*'
+  - 'x-my-header'
